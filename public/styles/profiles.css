@@ -41,3 +41,9 @@
   margin: 0.5rem 0;
 }
 
+#image-preview {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  display: none;
+}
